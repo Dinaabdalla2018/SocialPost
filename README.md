@@ -1,7 +1,5 @@
-Welcome to the readme file for the Windows Form Desktop Social Post project using Entity Framework, Code First, LINQ, and Migration!
-
 ## Project Description
-The Windows Form Desktop Social Post project is a simple social media application that allows users to create and view posts. The application is built using Windows Forms and utilizes Entity Framework with Code First approach for data access. LINQ is used for querying the database and Migration is used for managing database changes.
+The Windows Form Desktop Social Post project This simple social media application allows users to log in, register, create, update, delete, view posts, and create Blogs. The application is built using Windows Forms and utilizes Entity Framework with Code First approach for data access. LINQ is used for querying the database and Migration is used for managing database changes.
 
 ## Prerequisites
 - Visual Studio 2020
@@ -36,7 +34,11 @@ Update-Database
 - Migration: A feature in Entity Framework that enables developers to manage database changes over time using code-based migrations.
 
 ## forms
-![Screenshot](screen shot/Sinup.png)
+1. SignUp Form ![Signup.png](https://github.com/Dinaabdalla2018/SocialPost/blob/main/screen%20shot/Signup.png)
+2. Signin Form ![Sinin.png](https://github.com/Dinaabdalla2018/SocialPost/blob/main/screen%20shot/login.png)
+3. Home Form ![Home.png](https://github.com/Dinaabdalla2018/SocialPost/blob/main/screen%20shot/home.png)
+4. Profile ![Profile.png](https://github.com/Dinaabdalla2018/SocialPost/blob/main/screen%20shot/profile.png)
+5. Blog ![Blog.png](https://github.com/Dinaabdalla2018/SocialPost/blob/main/screen%20shot/blog.png)
 
 ## Contributing
 If you find any issues or bugs, please feel free to open an issue or submit a pull request. We welcome contributions and feedback from the community.
