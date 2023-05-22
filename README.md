@@ -24,7 +24,7 @@ Update-Database
 - `Models/`: Contains the entity models for the application and the DbContext and database configuration files.
 - `Forms/`: Contains theforms for the application, including the login form and the main form.
 - `Properties/`: Contains project properties and settings.
-- `migrations`: Contains the version history of the database changes made using Entity Framework's Code First approach.
+- `migrations/`: Contains the version history of the database changes made using Entity Framework's Code First approach.
 - `Program.cs`: Contains the application startup code.
 
 ## Technologies Used
